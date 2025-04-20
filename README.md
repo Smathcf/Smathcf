@@ -1,5 +1,6 @@
 # 💫 About Me:
-- Sou desenvolvedor de jogos<br>- Estou cursando TSI
+- Sou desenvolvedor de jogos<br>
+- Estou cursando TSI
 
 
 ## 🌐 Socials:
