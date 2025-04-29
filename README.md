@@ -1,6 +1,5 @@
 # 💫 About Me:
-- Sou desenvolvedor de jogos<br>
-- Estou cursando TSI
+- Progammer Roblox, SA:MP<br>
 
 
 ## 🌐 Socials:
