@@ -1,5 +1,5 @@
 # 💫 About Me:
-- My Name Kauã<br>
+- Desenvolvedor de Jogos<br>
 - Cursando<br>
 
 
