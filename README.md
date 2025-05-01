@@ -1,5 +1,6 @@
 # 💫 About Me:
 - My Name Kauã<br>
+- Cursando<br>
 
 
 ## 🌐 Socials:
