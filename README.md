@@ -1,8 +1,3 @@
-# 💫 About Me:
-- Desenvolvedor de Jogos<br>
-- Cursando<br>
-
-
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@Smathcf) 
 
